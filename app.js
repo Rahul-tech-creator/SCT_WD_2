@@ -2,7 +2,7 @@ window.onload = function() {
     let minutes = 0;
     let seconds = 0;
     let tens = 0;
-
+    
 
     let appendMinutes = document.querySelector('#minutes');
     let appendSeconds = document.querySelector('#seconds');
